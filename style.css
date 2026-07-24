@@ -9,3 +9,11 @@ h1{
 p{
     color:#333333;
 }
+#title{
+    color:darkgreen;
+}
+
+.important{
+    color:red;
+    font-weight:bold;
+}
