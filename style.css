@@ -36,3 +36,15 @@ ol{
     color:red;
     font-weight:bold;
 }
+.navbar{
+    display:flex;
+    justify-content:center;
+    gap:30px;
+    background-color:#1f4e79;
+    padding:15px;
+}
+.navbar a{
+    color:white;
+    text-decoration:none;
+    font-weight:bold;
+}
