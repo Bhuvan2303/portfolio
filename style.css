@@ -395,3 +395,10 @@ html{
     background:#2563eb;
     color:white;
 }
+.hero-right img{
+    width:380px;
+    height:380px;
+    object-fit:cover;
+    border-radius:20px;
+    box-shadow:0 20px 45px rgba(0,0,0,.18);
+}
