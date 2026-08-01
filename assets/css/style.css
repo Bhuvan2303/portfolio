@@ -274,11 +274,16 @@ nav{
 =========================== */
 
 footer{
-    background:#111827;
+    background:#0f172a;
     color:white;
     text-align:center;
     padding:25px;
-    margin-top:60px;
+    margin-top:80px;
+}
+
+footer p{
+    font-size:16px;
+    letter-spacing:1px;
 }
 
 /* ===========================
