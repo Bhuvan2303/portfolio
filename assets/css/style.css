@@ -6,7 +6,7 @@
     margin:0;
     padding:0;
     box-sizing:border-box;
-    font-family:Arial, Helvetica, sans-serif;
+    font-family:'Poppins',sans-serif;
 }
 
 html{
@@ -14,7 +14,7 @@ html{
 }
 
 body{
-    background:#f5f7fb;
+    background:#F8FAFC;
     color:#222;
 }
 
@@ -27,7 +27,7 @@ nav{
     justify-content:space-between;
     align-items:center;
     padding:20px 8%;
-    background:white;
+    background:#0F172A;
     box-shadow:0 3px 15px rgba(0,0,0,.08);
     position:sticky;
     top:0;
@@ -124,18 +124,17 @@ nav{
 }
 
 .btn{
-    text-decoration:none;
-    background:#2563eb;
+    background:#2563EB;
+    padding:14px 28px;
+    border-radius:12px;
     color:white;
-    padding:12px 24px;
-    border-radius:8px;
-    transition:.3s;
-    font-weight:bold;
+    font-weight:600;
+    transition:.35s;
 }
 
 .btn:hover{
     background:#1d4ed8;
-    transform:translateY(-4px);
+    transform:translateY(-5px);
 }
 
 /* ===========================
@@ -184,16 +183,16 @@ nav{
 
 .skill-card{
     background:white;
-    padding:20px;
-    text-align:center;
-    border-radius:10px;
-    box-shadow:0 5px 15px rgba(0,0,0,.08);
-    font-weight:bold;
-    transition:.3s;
+    border-radius:15px;
+    border:1px solid #E2E8F0;
+    padding:30px;
+    transition:.35s;
 }
 
 .skill-card:hover{
-    transform:translateY(-8px);
+    transform:translateY(-10px);
+    background:#2563EB;
+    color:white;
 }
 /* ===========================
    PROJECTS
@@ -218,15 +217,15 @@ nav{
 
 .card{
     background:white;
-    padding:25px;
-    border-radius:15px;
-    box-shadow:0 8px 20px rgba(0,0,0,.08);
-    transition:.3s;
+    border-radius:18px;
+    border:1px solid #E2E8F0;
+    padding:30px;
+    box-shadow:0 10px 25px rgba(15,23,42,.06);
+    transition:.35s;
 }
-
 .card:hover{
-    transform:translateY(-10px);
-    box-shadow:0 15px 30px rgba(0,0,0,.15);
+    transform:translateY(-12px);
+    box-shadow:0 25px 45px rgba(37,99,235,.15);
 }
 
 .card h3{
@@ -362,8 +361,12 @@ nav{
 }
 
 .btn{
-    width:100%;
-    text-align:center;
+    background:#2563EB;
+    padding:14px 28px;
+    border-radius:12px;
+    color:white;
+    font-weight:600;
+    transition:.35s;
 }
 
 }
