@@ -402,3 +402,42 @@ html{
     border-radius:20px;
     box-shadow:0 20px 45px rgba(0,0,0,.18);
 }
+/* ===========================
+   PROJECT CARD BUTTONS
+=========================== */
+
+.tech-stack{
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+.tech-stack span{
+    display:inline-block;
+    background:#e8f0fe;
+    color:#2563eb;
+    padding:8px 14px;
+    border-radius:20px;
+    margin:5px;
+    font-size:14px;
+    font-weight:bold;
+}
+
+.project-buttons{
+    display:flex;
+    justify-content:space-between;
+    margin-top:20px;
+}
+
+.project-buttons a{
+    text-decoration:none;
+    background:#2563eb;
+    color:white;
+    padding:10px 18px;
+    border-radius:8px;
+    transition:.3s;
+}
+
+.project-buttons a:hover{
+    background:#1d4ed8;
+    transform:translateY(-3px);
+}
