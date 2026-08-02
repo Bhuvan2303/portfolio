@@ -91,6 +91,7 @@ nav{
     justify-content:space-between;
     align-items:center;
     gap:60px;
+   padding-top:80px;
 }
 
 .hero-left{
