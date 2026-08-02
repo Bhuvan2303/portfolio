@@ -84,15 +84,12 @@ nav{
 }
 
 .nav-links a.active{
-
-    color:#60A5FA;
-
+    color:#60A5FA !important;
 }
 
 .nav-links a.active::after{
-
     width:100%;
-
+    background:#60A5FA;
 }
 
 /* ===========================
