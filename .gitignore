@@ -1,0 +1,22 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+
+# Node Modules
+node_modules/
+
+# Python Cache
+__pycache__/
+*.pyc
