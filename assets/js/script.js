@@ -2,7 +2,7 @@ const topBtn = document.getElementById("topBtn");
 
 window.onscroll = function () {
 
-    if (document.documentElement.scrollTop > 1000) {
+    if (document.documentElement.scrollTop > 1500) {
 
         topBtn.style.display = "block";
 
