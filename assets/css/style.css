@@ -83,6 +83,18 @@ nav{
     color:#60A5FA;
 }
 
+.nav-links a.active{
+
+    color:#60A5FA;
+
+}
+
+.nav-links a.active::after{
+
+    width:100%;
+
+}
+
 /* ===========================
    HERO
 =========================== */
