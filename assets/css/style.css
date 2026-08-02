@@ -474,3 +474,30 @@ html{
     background:#1d4ed8;
     transform:translateY(-3px);
 }
+/* ===========================
+   PROJECT STATUS
+=========================== */
+
+.status{
+    display:inline-block;
+    padding:8px 16px;
+    border-radius:30px;
+    font-size:13px;
+    font-weight:600;
+    margin-bottom:20px;
+}
+
+.completed{
+    background:#DCFCE7;
+    color:#15803D;
+}
+
+.in-progress{
+    background:#FEF3C7;
+    color:#B45309;
+}
+
+.planned{
+    background:#E2E8F0;
+    color:#475569;
+}
