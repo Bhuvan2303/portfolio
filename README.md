@@ -35,6 +35,7 @@ This portfolio was built to document my progress as I learn and build practical 
 - Technical Skills Section
 - Project Showcase
 - GitHub & LinkedIn Integration
+- Downloadable Resume
 - Contact Section
 - Responsive Layout
 - Smooth Hover Animations
@@ -70,7 +71,9 @@ portfolio/
 │   ├── images/
 │   │   └── profile.jpg
 │   │
-│   └── icons/
+│   ├── icons/
+│   └── resume/
+│       └── Bhuvan_HR_Resume.docx
 ```
 
 ---
@@ -96,7 +99,6 @@ portfolio/
 - JavaScript Interactivity
 - Animations
 - Professional Icons
-- Download Resume
 - Project Filtering
 - Blog Section
 - Responsive Optimizations
